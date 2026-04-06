@@ -28,16 +28,6 @@ nav:
       - Starting: start.md
       - Create a project: create_project.md
       - Create an observation: observations.md
-      - Managing observations: managing_observations.md
-      - Coding: coding.md
-      - Export events: export_events.md
-      - Playback menu: playback_menu.md
-      - Tools: tools.md
-      - Coding map: coding_map.md
-      - Analysis: analysis.md
-      - Plot: plot.md
-      - Preferences: preferences.md
-      - Various: various.md
   - Community: community.md
   - BORIS web site: https://www.boris.unito.it
 

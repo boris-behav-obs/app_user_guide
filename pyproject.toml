@@ -1,7 +1,7 @@
 [project]
-name = "user-guide"
+name = "boris-app-user-guide"
 version = "9.9"
-description = "BORIS user guide"
+description = "BORIS App user guide"
 authors = [
     { name = "Olivier Friard", email = "olivier.friard@unito.it" }
 ]
@@ -16,7 +16,3 @@ dependencies = [
 readme = "README.md"
 requires-python = ">= 3.13"
 
-[tool.rye]
-managed = true
-virtual = true
-dev-dependencies = []

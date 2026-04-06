@@ -1,0 +1,22 @@
+[project]
+name = "user-guide"
+version = "9.9"
+description = "BORIS user guide"
+authors = [
+    { name = "Olivier Friard", email = "olivier.friard@unito.it" }
+]
+dependencies = [
+    "mkdocs-material>=9.5.15",
+    "mkdocs-macros-plugin>=1.0.5",
+    "mkdocs-glightbox>=0.3.7",
+    "mkdocs-minify-plugin>=0.8.0",
+    "pydyf==0.10",
+    "mkdocs-to-pdf>=0.10.1",
+]
+readme = "README.md"
+requires-python = ">= 3.13"
+
+[tool.rye]
+managed = true
+virtual = true
+dev-dependencies = []

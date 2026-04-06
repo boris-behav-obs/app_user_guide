@@ -26,8 +26,6 @@ nav:
   - User guide:
       - Installation: install.md
       - Starting: start.md
-      - Create a project: create_project.md
-      - Create an observation: observations.md
   - Community: community.md
   - BORIS web site: https://www.boris.unito.it
 

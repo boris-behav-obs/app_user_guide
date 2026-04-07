@@ -44,6 +44,12 @@ BORIS App will show a summary of the selected project:
 </figure>
 
 
+You can visualize the ethogram by pressing the **View ethogram** button
+
+<figure markdown>
+  ![Image title](images/ethogram.png)
+  <figcaption>Ethogram of the open project</figcaption>
+</figure>
 
 
 # Start a new observation
@@ -196,4 +202,3 @@ These limitations should be fixed in next releases.
 
 
 * BORIS App can not handle independent variables defined as **set of values**
-

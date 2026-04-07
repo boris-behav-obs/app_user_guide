@@ -64,4 +64,4 @@ extra:
     - icon: fontawesome/brands/mastodon
       link: https://fediscience.org/web/@boris
   boris:
-    version: 9.9
+    version: 0.13

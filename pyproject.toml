@@ -1,6 +1,6 @@
 [project]
 name = "boris-app-user-guide"
-version = "9.9"
+version = "0.13"
 description = "BORIS App user guide"
 authors = [
     { name = "Olivier Friard", email = "olivier.friard@unito.it" }
